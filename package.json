@@ -1,19 +1,16 @@
 {
-  "name": "graphql-amqp-subscriptions",
+  "name": "graphql-subscriptions-amqp",
   "description": "GraphQL AMQP Subscriptions",
   "version": "1.0.4",
-  "author": "https://github.com/Surnet/graphql-amqp-subscriptions/graphs/contributors",
+  "author": "https://github.com/rizkyario/graphql-subscriptions-amqp/graphs/contributors",
   "license": "MIT",
-  "homepage": "https://github.com/Surnet/graphql-amqp-subscriptions",
+  "homepage": "https://github.com/rizkyario/graphql-subscriptions-amqp",
   "bugs": {
-    "url": "https://github.com/Surnet/graphql-amqp-subscriptions/issues"
+    "url": "https://github.com/rizkyario/graphql-subscriptions-amqp/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Surnet/graphql-amqp-subscriptions.git"
-  },
-  "engines": {
-    "node": "10.15.1"
+    "url": "https://github.com/rizkyario/graphql-subscriptions-amqp.git"
   },
   "keywords": [
     "graphql",
